@@ -1,6 +1,6 @@
 #!/bin/bash
 ##Filename:     CentOS_Check_Script.sh
-##Date:         2019-03-01
+##Date:         2023-11-09
 ##Description:  Security detection script
 
 echo "##########################################################################"
